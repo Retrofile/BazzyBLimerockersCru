@@ -58,8 +58,8 @@ $(document).ready(function() {
 	<div class="col">&nbsp;	</div>
 	<div class="col">&nbsp;	</div>
 	<div class="col">
-		<p><a href="http://www.facebook.com/limerockerscru" target="_blank">facebook/limerockers cru</a></p>
-		<p><a href="http://www.facebook.com/limerockerscru" target="_blank">facebook/Barry Burke</a></p>
+		<p><a href="https://www.facebook.com/pages/Limerockers-Cru/265071210191675?fref=ts" target="_blank">facebook/limerockers cru</a></p>
+		<p><a href="https://www.facebook.com/barry.burke.988?fref=ts" target="_blank">facebook/Barry Burke</a></p>
 	</div>
 </div>
 
