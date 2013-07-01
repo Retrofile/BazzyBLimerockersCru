@@ -19,7 +19,7 @@ if (isset($_GET["section"])) {
 ?>
 <div id="slideShow" style="margin-top:40px;width:600px;height:400px;overflow:hidden;box-sizing:border-box;float:left">
 <img src="content/home.jpg" class="cornerImage"/>
-<?php for ($x=1;$x<=5;$x++) { ?>
+<?php for ($x=4;$x<=5;$x++) { ?>
 <img src="content/slides/image<?php echo $x; ?>.jpg" class="cornerImage"/>
 <?php } ?>
 </div>
